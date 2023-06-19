@@ -18,12 +18,9 @@ preview: <br/>
 
 
 
+https://github.com/nursedaturkcan/TodoWithReact/assets/129687664/ced7798d-a58a-4cf0-a33a-dca87fcf9566
 
 
-
-
-
-Uploading React App - Google Chrome 2023-06-19 14-43-51.mp4…
 
 
 
