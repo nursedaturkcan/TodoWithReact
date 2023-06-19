@@ -13,11 +13,17 @@ The TodoWrapperLocalStorage component is an enhanced version that utilizes local
 
 The project utilizes icons from the FontAwesome library to enhance the user interface.
 
-Overall, this project provides a simple and intuitive interface for managing a todo list.
+Overall, this project provides a simple and intuitive interface for managing a todo list. <br/>
+preview: <br/>
 
 
 
 
+
+
+
+
+Uploading React App - Google Chrome 2023-06-19 14-43-51.mp4…
 
 
 
