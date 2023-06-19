@@ -11,9 +11,9 @@ The EditTodoForm component is used for editing a task. By clicking on a task, th
 
 The TodoWrapperLocalStorage component is an enhanced version that utilizes local storage to persist tasks. This ensures that the tasks are retained even after the page is refreshed or closed. The tasks are stored in the local storage, allowing the user to access their todo list across sessions.
 
-The project utilizes icons from the FontAwesome library to enhance the user interface.
+The project utilizes icons from the FontAwesome library to enhance the user interface.<br/>
 
-Overall, this project provides a simple and intuitive interface for managing a todo list.
+Overall, this project provides a simple and intuitive interface for managing a todo list.<br/>
 Preview: <br/>
 
 
